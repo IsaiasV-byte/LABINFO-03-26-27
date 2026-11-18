@@ -11,3 +11,6 @@
    11  cd /workspaces/LABINFO-03-26-27
    12  git add A140463/README.md cmdstask2.txt
    13  history > cmdstask2.txt
+
+/workspaces/LABINFO-03-26-27/A140463
+/home/codespace
