@@ -1,0 +1,13 @@
+    1  mkdir A140463
+    2  ls
+    3  cd A140463
+    4  pwd
+    5  echo "Teste de LI 2026/2027" > README.md
+    6  cd
+    7  pwd
+    8  ls
+    9  cd LABINFO-03-26-27
+   10  history > cmdstask2.txt
+   11  cd /workspaces/LABINFO-03-26-27
+   12  git add A140463/README.md cmdstask2.txt
+   13  history > cmdstask2.txt
